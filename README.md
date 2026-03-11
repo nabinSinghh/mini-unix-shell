@@ -21,6 +21,9 @@ Instead of implementing the entire shell at once, the system is built through tw
 ```
 mini-unix-shell
 │
+├── report
+│   └── myshell.pdf
+│
 ├── src
 │   ├── 1gets.c
 │   ├── 2execlp.c
@@ -34,9 +37,6 @@ mini-unix-shell
 │   ├── 10pipe.c
 │   ├── 11pipe.c
 │   └── 12shell.c
-│
-├── report
-│   └── myshell.pdf
 │
 ├── README.md
 ├── LICENSE
